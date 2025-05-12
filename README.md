@@ -58,4 +58,4 @@ https://github.com/davisking/dlib-models/raw/master/shape_predictor_68_face_land
 ## 🚀 Usage
 Run the application:
 
-python main.py
+face detect.ipynb
